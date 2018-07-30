@@ -17,27 +17,37 @@ Personally, I really like the design and simplicity of the images Simple Desktop
 
 ## Usage
 
-Embed the following code into your desired places. Don't worry about `https` support, all redirected image links are served over `https`. 🐱‍👤
+Embed the following code into your desired places. Don't worry about `https` support, API's `GET` method is served over `https`, and all redirected image links are served over `https` too. 🐱‍👤
 
 **1. Plain URL**
 
 ```html
-http://api.spencerwoo.com
+https://api.spencerwoo.com
 ```
 
 **2. Markdown**
 
 ```html
-![img](http://api.spencerwoo.com)
+![img](https://api.spencerwoo.com)
 ```
 
 **3. HTML**
 
 ```html
-<img src="http://api.spencerwoo.com" alt="img.png" title="img.png" />
+<img src="https://api.spencerwoo.com" alt="img.png" title="img.png" />
 ```
 
 Images are reloaded and randomized with every refresh.
+
+## Does it look nice?
+
+![sshot-1.png](https://i.loli.net/2018/07/30/5b5ecdb7b783a.png)
+
+Websites using **Spencer-Image-API-for-Simple-Desktops**:
+
+- https://spencerwoo.com
+
+If you are using my API and wish to be added to the list, fork the project, add yourself to the list here, and make a PR. Cheers. 🎉
 
 ## Contributing
 
@@ -60,12 +70,6 @@ Images are reloaded and randomized with every refresh.
 If you consider serving this at your own server, put all files above at your server's web root. Then go for `$YourServerIP/api$` and see that in action. 🎊
 
 Contributions are welcome.
-
-Websites using `Spencer Image API for Simple Desktops`:
-
-- https://spencerwoo.com
-
-If you are using my API and wish to be added to the list, fork the project, add yourself to the list here, and make a PR. Cheers. 🎉
 
 ## Acknowledgements
 
