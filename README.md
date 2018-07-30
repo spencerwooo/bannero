@@ -1,9 +1,10 @@
 ![bars.jpg](https://i.loli.net/2018/07/30/5b5ebbb4da73a.jpg)
 
-# Spencer Image API for Simple Desktops
+# Spencer's Simple-Desktop-API
 
 ![love](https://img.shields.io/badge/Made%20with-LOVE-ff69b4.svg)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![中文 README](https://img.shields.io/badge/Readme-中文-orange.svg)](https://github.com/spencerwoo98/spencer-simple-desktop-api/blob/master/README-zh.md)
 
 A dead simple random image API for web pages. Images curated by the magnificent ones at Simple Desktops. 🎉🎉🎉
 
@@ -43,7 +44,7 @@ Images are reloaded and randomized with every refresh.
 
 ![sshot-1.png](https://i.loli.net/2018/07/30/5b5ecdb7b783a.png)
 
-Websites using **Spencer-Image-API-for-Simple-Desktops**:
+Websites using **Spencer's Simple-Desktop-API**:
 
 - https://spencerwoo.com
 
@@ -75,7 +76,7 @@ Contributions are welcome.
 
 - Images at Simple Desktops are for personal use and for personal use only. They shouldn't be sold or reposted without the expressed written consent of the desktop creator. See [Simple Desktops](http://simpledesktops.com/about/) for more details.
 - A huge thank you to SM.MS for providing such a stable and awesome image hosting service. 
-- Server provided by [VULTR - The Infrastructure Cloud™](https://www.vultr.com/)
+- Server provided by [VULTR - The Infrastructure Cloud™](https://www.vultr.com/).
  
 This project is published under the MIT License. 
 
