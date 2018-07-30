@@ -1,6 +1,6 @@
 ![bars.jpg](https://i.loli.net/2018/07/30/5b5ebbb4da73a.jpg)
 
-# Spencer's Simple-Desktop-API
+# Spencer's Simple-Desktop-API | 一喵一图
 
 ![love](https://img.shields.io/badge/Made%20with-LOVE-ff69b4.svg)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -46,7 +46,7 @@ https://api.spencerwoo.com
 
 ![sshot-1.png](https://i.loli.net/2018/07/30/5b5ecdb7b783a.png)
 
-目前在使用 **Spencer's Simple-Desktop-API** 的网站有这些:
+目前在使用 **「一喵一图」** 的网站有这些:
 
 - https://spencerwoo.com
 
@@ -76,11 +76,12 @@ https://api.spencerwoo.com
 
 ## 致谢与版权声明
 
+**服务稳定全靠天，随时跑路不留名。**
+
 - Images at Simple Desktops are for personal use and for personal use only. They shouldn't be sold or reposted without the expressed written consent of the desktop creator. See [Simple Desktops](http://simpledesktops.com/about/) for more details.
 - A huge thank you to SM.MS for providing such a stable and awesome image hosting service. 
 - Server provided by [VULTR - The Infrastructure Cloud™](https://www.vultr.com/).
-- **服务稳定全靠天，随时跑路不留名。**
  
 项目经由 MIT License 发布。
 
-© Spencer Woo
+[© Spencer Woo](https://spencerwoo.com)
