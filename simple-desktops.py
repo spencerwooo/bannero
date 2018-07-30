@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 
 sdUrl = 'http://simpledesktops.com/browse/'
 # sdRandomPage = str(random.randint(1, 49))
-sdRandomPage = '2'
+sdRandomPage = '8'
 sdHeaders = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36'}
 
@@ -60,7 +60,7 @@ def uploadToSmms(imgName):
     smData = {'ssl': True}
     smResponse = requests.post(smUrl, files=smFile, data=smData)
     smRespJson = json.loads(smResponse.content)
-    # print(smRespJson['data']['url'])
+    print(smRespJson)
     return smRespJson['data']['url']
 
 
