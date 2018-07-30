@@ -1,4 +1,4 @@
-![img](http://static.simpledesktops.com/uploads/desktops/2018/06/29/popsicle_adventure_1.png)
+![img](api.spencerwoo.com)
 
 A image API for simple desktop.
 
