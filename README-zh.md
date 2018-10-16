@@ -49,6 +49,7 @@ https://api.spencerwoo.com
 目前在使用 **「一喵一图」** 的网站有这些:
 
 - https://spencerwoo.com
+- https://chungzh.cn
 
 如果你在使用我的 API 并且想将你的网站加到列表里面来，请直接 fork 项目，修改这里的列表，然后发一个 PR 就 ok 了。干杯。🎉
 
@@ -90,4 +91,8 @@ https://api.spencerwoo.com
 
 Created, authored and maintained by Spencer Woo.
 
+<<<<<<< HEAD
 [@Blog](https://spencerwoo.com/) · [ⒿJike](https://web.okjike.com/user/4DDA0425-FB41-4188-89E4-952CA15E3C5E/post) · [@GitHub](https://github.com/spencerwoo98)
+=======
+[© Spencer Woo](https://spencerwoo.com)
+>>>>>>> 5a6590cd6846a08cb5a37e009813e70e00996efb

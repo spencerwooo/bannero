@@ -47,6 +47,7 @@ Images are reloaded and randomized with every refresh.
 Websites using **Spencer's Simple-Desktop-API**:
 
 - https://spencerwoo.com
+- https://chungzh.cn
 
 If you are using my API and wish to be added to the list, fork the project, add yourself to the list here, and make a PR. Cheers. 🎉
 
@@ -80,6 +81,7 @@ Contributions are welcome.
  
 <br>
 
+<<<<<<< HEAD
 ---
 
 **🚀 Simple Desktops API** ©Spencer Woo. Released under the MIT License. 
@@ -87,3 +89,6 @@ Contributions are welcome.
 Created, authored and maintained by Spencer Woo.
 
 [@Blog](https://spencerwoo.com/) · [ⒿJike](https://web.okjike.com/user/4DDA0425-FB41-4188-89E4-952CA15E3C5E/post) · [@GitHub](https://github.com/spencerwoo98)
+=======
+© Spencer Woo
+>>>>>>> 5a6590cd6846a08cb5a37e009813e70e00996efb
