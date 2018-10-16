@@ -49,6 +49,7 @@ https://api.spencerwoo.com
 目前在使用 **「一喵一图」** 的网站有这些:
 
 - https://spencerwoo.com
+- https://chungzh.cn
 
 如果你在使用我的 API 并且想将你的网站加到列表里面来，请直接 fork 项目，修改这里的列表，然后发一个 PR 就 ok 了。干杯。🎉
 
