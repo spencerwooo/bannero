@@ -47,6 +47,7 @@ Images are reloaded and randomized with every refresh.
 Websites using **Spencer's Simple-Desktop-API**:
 
 - https://spencerwoo.com
+- https://chungzh.cn
 
 If you are using my API and wish to be added to the list, fork the project, add yourself to the list here, and make a PR. Cheers. 🎉
 
