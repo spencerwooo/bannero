@@ -91,8 +91,4 @@ https://api.spencerwoo.com
 
 Created, authored and maintained by Spencer Woo.
 
-<<<<<<< HEAD
 [@Blog](https://spencerwoo.com/) · [ⒿJike](https://web.okjike.com/user/4DDA0425-FB41-4188-89E4-952CA15E3C5E/post) · [@GitHub](https://github.com/spencerwoo98)
-=======
-[© Spencer Woo](https://spencerwoo.com)
->>>>>>> 5a6590cd6846a08cb5a37e009813e70e00996efb
