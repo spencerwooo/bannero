@@ -1,6 +1,6 @@
 ![bars.jpg](https://i.loli.net/2018/07/30/5b5ebbb4da73a.jpg)
 
-# Spencer's Simple-Desktop-API
+# 🚀 Spencer's Simple-Desktop-API
 
 ![love](https://img.shields.io/badge/Made%20with-LOVE-ff69b4.svg)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -78,6 +78,12 @@ Contributions are welcome.
 - A huge thank you to SM.MS for providing such a stable and awesome image hosting service. 
 - Server provided by [VULTR - The Infrastructure Cloud™](https://www.vultr.com/).
  
-This project is published under the MIT License. 
+<br>
 
-© Spencer Woo
+---
+
+**🚀 Simple Desktops API** ©Spencer Woo. Released under the MIT License. 
+
+Created, authored and maintained by Spencer Woo.
+
+[@Blog](https://spencerwoo.com/) · [ⒿJike](https://web.okjike.com/user/4DDA0425-FB41-4188-89E4-952CA15E3C5E/post) · [@GitHub](https://github.com/spencerwoo98)
