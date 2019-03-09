@@ -2,7 +2,7 @@
 
 # 🚀 Spencer's Simple-Desktop-API
 
-**This API is not under active maintainence, and the API server has been shutdown. Please deploy to your own server if you wish to use this API.**
+**This API is no longer under active maintainence. The main API server has been shutdown. Please deploy to your own server if you wish to use this API in the future.**
 
 ![love](https://img.shields.io/badge/Made%20with-LOVE-ff69b4.svg)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
