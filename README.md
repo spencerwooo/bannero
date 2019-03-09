@@ -2,6 +2,8 @@
 
 # 🚀 Spencer's Simple-Desktop-API
 
+**This API is not under active maintainence, and the API server has been shutdown. Please deploy to your own server if you wish to use this API.**
+
 ![love](https://img.shields.io/badge/Made%20with-LOVE-ff69b4.svg)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![中文 README](https://img.shields.io/badge/Readme-中文-orange.svg)](https://github.com/spencerwoo98/spencer-simple-desktop-api/blob/master/README-zh.md)
@@ -76,14 +78,14 @@ Contributions are welcome.
 ## Acknowledgements
 
 - Images at Simple Desktops are for personal use and for personal use only. They shouldn't be sold or reposted without the expressed written consent of the desktop creator. See [Simple Desktops](http://simpledesktops.com/about/) for more details.
-- A huge thank you to SM.MS for providing such a stable and awesome image hosting service. 
+- A huge thank you to SM.MS for providing such a stable and awesome image hosting service.
 - Server provided by [VULTR - The Infrastructure Cloud™](https://www.vultr.com/).
- 
+
 <br>
 
 ---
 
-**🚀 Simple Desktops API** ©Spencer Woo. Released under the MIT License. 
+**🚀 Simple Desktops API** ©Spencer Woo. Released under the MIT License.
 
 Created, authored and maintained by Spencer Woo.
 
