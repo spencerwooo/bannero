@@ -7,8 +7,7 @@ And the makes a 301 redirect to the image url
 import random
 import http.server as webserver
 import socketserver
-
-PORT = 9000
+import os
 
 class banneroHandler(webserver.SimpleHTTPRequestHandler):
   def do_GET(self):
@@ -35,7 +34,8 @@ def getRandomUrl(file):
 
 def main():
   # Start HTTP server
-  handler = socketserver.TCPServer(("", PORT), banneroHandler)
+  PORT = int(os.environ.get('PORT', 9000))
+  handler = socketserver.TCPServer(("0.0.0.0", PORT), banneroHandler)
   print('Serving at port', PORT)
   handler.serve_forever()
 
