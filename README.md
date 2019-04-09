@@ -1,14 +1,17 @@
-![bars.jpg](https://i.loli.net/2018/07/30/5b5ebbb4da73a.jpg)
+<div align="center">
 
-# 🚀 Spencer's Simple-Desktop-API
+<img src="assets/Bannero.png" width="80%">
+<h1> Bannero API </h1>
+<p>🚀🥇🗳</p>
 
-**This API is no longer under active maintainence. The main API server has been shutdown. Please deploy to your own server if you wish to use this API in the future.**
+<strong><p> Simple random banner pictures for blogs, websites and more.</p></strong>
 
-![love](https://img.shields.io/badge/Made%20with-LOVE-ff69b4.svg)
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![中文 README](https://img.shields.io/badge/Readme-中文-orange.svg)](https://github.com/spencerwoo98/spencer-simple-desktop-api/blob/master/README-zh.md)
+[![](https://img.shields.io/badge/Deployed%20to-HEROKU-%237B5CA3.svg?logo=heroku&style=for-the-badge)](https://bannero.herokuapp.com/)
+![GitHub](https://img.shields.io/github/license/spencerwooo/bannero.svg?style=for-the-badge)
 
-A dead simple random image API for web pages. Images curated by the magnificent ones at Simple Desktops. 🎉🎉🎉
+</div>
+
+**I'm BACK!**
 
 ## What is Simple Desktops?
 
@@ -25,68 +28,62 @@ Embed the following code into your desired places. Don't worry about `https` sup
 **1. Plain URL**
 
 ```html
-https://api.spencerwoo.com
+https://bannero.herokuapp.com
 ```
 
 **2. Markdown**
 
 ```html
-![img](https://api.spencerwoo.com)
+![img](https://bannero.herokuapp.com)
 ```
 
 **3. HTML**
 
 ```html
-<img src="https://api.spencerwoo.com" alt="img.png" title="img.png" />
+<img src="https://bannero.herokuapp.com" alt="img.png" title="img.png" />
 ```
 
 Images are reloaded and randomized with every refresh.
 
 ## Does it look nice?
 
+Of course.
+
 ![sshot-1.png](https://i.loli.net/2018/07/30/5b5ecdb7b783a.png)
 
-Websites using **Spencer's Simple-Desktop-API**:
-
-- https://spencerwoo.com
-- https://chungzh.cn
-
-If you are using my API and wish to be added to the list, fork the project, add yourself to the list here, and make a PR. Cheers. 🎉
-
-## Contributing
-
-```
-.
-├── README.md
-├── api.php
-├── assets
-│   ├── archlogo.png
-│   └── imageToBeUploadedToSmms.png
-├── index.php
-├── simple-desktops.py
-└── simple-desktops.txt
-
-1 directory, 7 files
-```
-
-`simple-desktops.py` is for scraping down images at Simple Desktops. Images are downloaded to `assets/imageToBeUploadedToSmms.png` and then uploaded to SM.MS image hosting service. The response image url is stored at `simple-desktops.txt`.
-
-If you consider serving this at your own server, put all files above at your server's web root. Then go for `$YourServerIP/api$` and see that in action. 🎊
-
 Contributions are welcome.
+
+## Building
+
+- Install Python 3
+- Install `pipenv`, then run:
+
+```bash
+pipenv install
+```
+
+- Go into Python virtual environment:
+
+```bash
+pipenv shell
+```
+
+- Run server at `localhost:9000`
+
+```bash
+python src/api.py
+```
 
 ## Acknowledgements
 
 - Images at Simple Desktops are for personal use and for personal use only. They shouldn't be sold or reposted without the expressed written consent of the desktop creator. See [Simple Desktops](http://simpledesktops.com/about/) for more details.
 - A huge thank you to SM.MS for providing such a stable and awesome image hosting service.
-- Server provided by [VULTR - The Infrastructure Cloud™](https://www.vultr.com/).
-
-<br>
+- **App is proudly served at Heroku.**
 
 ---
 
-**🚀 Simple Desktops API** ©Spencer Woo. Released under the MIT License.
+**🚀 Bannero API** ©Spencer Woo. Released under the MIT License.
 
 Created, authored and maintained by Spencer Woo.
 
-[@Blog](https://spencerwoo.com/) · [ⒿJike](https://web.okjike.com/user/4DDA0425-FB41-4188-89E4-952CA15E3C5E/post) · [@GitHub](https://github.com/spencerwoo98)
+[@Blog](https://spencerwoo.com/) · [ⒿJike](https://web.okjike.com/user/4DDA0425-FB41-4188-89E4-952CA15E3C5E/post) · [@GitHub](https://github.com/spencerwooo)
