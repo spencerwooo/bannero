@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding=utf-8 -*-
 
+"""
+This is a dirty file with little maintainence.
+Use with caution.
+It works, but I don't know how.
+Maybe someday, just maybe, I'll come up with comments for this code.
+"""
 
 import os
 import random
@@ -13,7 +19,7 @@ from bs4 import BeautifulSoup
 
 sdUrl = 'http://simpledesktops.com/browse/'
 # sdRandomPage = str(random.randint(1, 49))
-sdRandomPage = '25'
+sdRandomPage = '1'
 sdHeaders = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36'}
 
@@ -50,7 +56,7 @@ def getImage():
 
 def saveImgToDevice(imgUrl):
     imgData = requests.get(imgUrl).content
-    with open('assets/imageToBeUploadedToSmms.png', 'wb') as handler:
+    with open('../assets/imageToBeUploadedToSmms.png', 'wb') as handler:
         handler.write(imgData)
 
 
@@ -72,13 +78,13 @@ def main():
         saveImgToDevice(eachImgUrl)
         print("-- An Image From simpledesktops.com Page " + sdRandomPage + " --")
         print("-- Uploading to sm.ms image hosting service --")
-        finalImage = uploadToSmms('assets/imageToBeUploadedToSmms.png')
+        finalImage = uploadToSmms('../assets/imageToBeUploadedToSmms.png')
         print(finalImage)
         print("-- Uploaded --")
-        with open('simple-desktops.txt', 'a') as sdFile:
+        with open('bannero.txt', 'a') as sdFile:
             sdFile.write(finalImage + '\n')
         time.sleep(5)
-        
+
     # return finalImage
 
 
