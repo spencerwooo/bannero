@@ -13,7 +13,7 @@ PORT = 8080
 class banneroHandler(webserver.SimpleHTTPRequestHandler):
   def do_GET(self):
     # Read file: bannero.txt
-    f = open('bannero.txt', 'r')
+    f = open('./src/bannero.txt', 'r')
     # Get random line, then strip out ending newline '\n'
     url = getRandomUrl(f).strip()
     print(url)
