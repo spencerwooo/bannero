@@ -1,5 +1,5 @@
 """
-This is a simple HTTP server, serving at localhost:8080
+This is a simple HTTP server, serving at localhost:9000
 It takes an URL from the file 'bannero.txt' (Randomly gets a line)
 And the makes a 301 redirect to the image url
 """
@@ -8,7 +8,7 @@ import random
 import http.server as webserver
 import socketserver
 
-PORT = 8080
+PORT = 9000
 
 class banneroHandler(webserver.SimpleHTTPRequestHandler):
   def do_GET(self):
